@@ -13,25 +13,43 @@ The notebooks emphasize **symbolic solutions** wherever possible, along with cle
 - Linear algebra and vector operations
 - Summation, product, and symbolic manipulation
 - 2D and 3D graphics for mathematical visualization
+- Special Functions: (Gamma, Beta, Bessel, Struve, Error)
+- Series Expansions: Taylor, Maclaurin, and Padé approximations
 
 ### Classical Mechanics
 - Kinematics with trajectory plotting
-- Newtonian mechanics (e.g., pendulum motion with and without damping)
+- Newtonian and Lagrangian mechanics (e.g., pendulum motion with and without damping)
+- Minkowski diagram and gravitational time dilation
 
 ### Thermodynamics
 - Ideal gas law and state variables
 - PV diagrams for common thermodynamic processes
-- Solve heat equation
+- Solve the heat equation
+- Heat engine efficiency: Carnot, Otto, and Diesel cycle
+- Statistical distributions: Maxwell–Boltzmann, Bose–Einstein, Fermi–Dirac
 
 ### Electrodynamics
 - Visualizing electric fields, potentials, and energy densities
 - Dispersion solution in a vacuum medium
+
+### Wave & Signal Analysis
+
+- Solve the wave equation
+- Explore various pulse shapes
+- Low-pass, band-pass, and high-pass filters
 
 ### Quantum Mechanics
 - Blackbody radiation via Planck's law
 - Dispersion solution in quantum mechanics
 - Hydrogen radial and spherical wavefunction
 - 3-spin Heisenberg models with transverse fields
+- Harmonic oscillator and 2D particle in a box (visual eigenfunctions)
+
+### Condensed Matter Physics
+- 1D and 2D Tight-Binding Band Structure
+- Bloch Wave
+- Phonon Dispersion (Monatomic and Diatomic Chain)
+- 3D Dirac Cone Band Structure
 
 ## Getting Started
 
